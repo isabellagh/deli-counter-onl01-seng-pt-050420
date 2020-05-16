@@ -1,5 +1,5 @@
 def line(place)
-  
-  puts 
+  array = []
+  puts "The line is currently empty."
 end
 
